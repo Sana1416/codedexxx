@@ -1,0 +1,13 @@
+/*
+
+
+git clone <repo-url>
+git pull origin main
+git branch new-branch-name
+git switch new-branch-name
+git merge main
+
+and pull reuest and fork
+
+
+*/
